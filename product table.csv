@@ -1,0 +1,6 @@
+ProductID,ProductName,CategoryID,Price,Stock
+1,Laptop,1,75000,30
+2,Mobile,1,20000,10
+3,"Python Book",2,800,35
+4,"Men's Pant",3,2000,20
+6,"DBMS Book",2,1500,8
